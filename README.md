@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/thaim/sample/_apis/build/status/thaim.pipelines-java?branchName=master)](https://dev.azure.com/thaim/sample/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
